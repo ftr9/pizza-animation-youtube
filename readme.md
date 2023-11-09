@@ -4,6 +4,8 @@ Thr youtuber completed that challenge in flutter - this is the same challenge do
 
 - [youtube challenge](https://www.youtube.com/watch?v=sY5VclVPUYg)
 
+https://github.com/ftr9/pizza-animation-youtube-challenge/assets/60734475/37f2d6df-06d0-4c52-9f00-42798a257eaf
+
 ### What's installed ?
 
 - Typescript
